@@ -138,6 +138,7 @@ reproducible PoC, and a PoC into a shipped fix.
 
 | CVE | Advisory | Package | Severity | Summary |
 |---|---|---|---|---|
+| `CVE-2026-109383` | [GHSA-2m5v-pch6-74hx](https://github.com/advisories/GHSA-2m5v-pch6-74hx) | [undici](https://github.com/nodejs/undici) (npm) < 6.29.1 · < 7.30.1 · < 8.12.2 | ![High](https://img.shields.io/badge/High-E24B4A?style=flat-square&labelColor=07090D) | TLS certificate validation bypass via dropped `tls` options in `Agent` (CWE-295) |
 | `CVE-2026-107719` | [GHSA-x937-hj6v-793p](https://github.com/advisories/GHSA-x937-hj6v-793p) | [fast-jwt](https://github.com/nearform/fast-jwt) (npm) ≤ 6.3.3 | ![Moderate](https://img.shields.io/badge/Moderate-4.2-FB8C00?style=flat-square&labelColor=07090D) | JWT expiration bypass via verifier cache (CWE-613) |
 
 </div>
