@@ -44,7 +44,7 @@ bluen0r@ops:~$ cat ./motto.txt
 
 ---
 
-## `bluen0r@ops:~$ cat ./whoami`
+## 🧑‍💻 whoami
 
 ```yaml
 name:      BlueN0r
@@ -67,7 +67,7 @@ reproducible PoC, and a PoC into a shipped fix.
 
 ---
 
-## `~/certs`
+## 🎓 Certifications
 
 <p align="center">
   <a href="https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist">
@@ -86,7 +86,7 @@ reproducible PoC, and a PoC into a shipped fix.
 
 ---
 
-## `~/capabilities`
+## 🎯 What I Do
 
 <table>
 <tr>
@@ -132,7 +132,7 @@ reproducible PoC, and a PoC into a shipped fix.
 
 ---
 
-## `~/advisories`
+## 🛡️ Security Advisories
 
 <div align="center">
 
@@ -146,26 +146,54 @@ reproducible PoC, and a PoC into a shipped fix.
 
 ---
 
-## `~/arsenal`
+## 🧰 Arsenal
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite">
-  <img src="https://img.shields.io/badge/Frida-EF6456?style=for-the-badge&logoColor=white" alt="Frida">
-  <img src="https://img.shields.io/badge/ADB-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="ADB">
-  <img src="https://img.shields.io/badge/Ghidra-2B2B2B?style=for-the-badge&logoColor=white" alt="Ghidra">
-  <img src="https://img.shields.io/badge/IDA_Pro-1B1B1B?style=for-the-badge&logoColor=white" alt="IDA Pro">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
-  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server">
-  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-</p>
+<table>
+<tr>
+<td valign="top"><sub><b>WEB / PROXY</b></sub></td>
+<td>
+<img src="https://img.shields.io/badge/Burp_Suite-E8EDF6?style=flat-square&logo=burpsuite&logoColor=FF6633&labelColor=0E1018&color=0E1018" alt="Burp Suite">
+</td>
+</tr>
+<tr>
+<td valign="top"><sub><b>REVERSE ENGINEERING</b></sub></td>
+<td>
+<img src="https://img.shields.io/badge/IDA_Pro-E8EDF6?style=flat-square&logoColor=E8EDF6&labelColor=0E1018&color=0E1018" alt="IDA Pro">
+<img src="https://img.shields.io/badge/Ghidra-E8EDF6?style=flat-square&logoColor=E8EDF6&labelColor=0E1018&color=0E1018" alt="Ghidra">
+</td>
+</tr>
+<tr>
+<td valign="top"><sub><b>MOBILE</b></sub></td>
+<td>
+<img src="https://img.shields.io/badge/Frida-E8EDF6?style=flat-square&logoColor=E8EDF6&labelColor=0E1018&color=0E1018" alt="Frida">
+<img src="https://img.shields.io/badge/ADB-E8EDF6?style=flat-square&logo=android&logoColor=3DDC84&labelColor=0E1018&color=0E1018" alt="ADB">
+</td>
+</tr>
+<tr>
+<td valign="top"><sub><b>NETWORK</b></sub></td>
+<td>
+<img src="https://img.shields.io/badge/Wireshark-E8EDF6?style=flat-square&logo=wireshark&logoColor=1679A7&labelColor=0E1018&color=0E1018" alt="Wireshark">
+</td>
+</tr>
+<tr>
+<td valign="top"><sub><b>PLATFORMS</b></sub></td>
+<td>
+<img src="https://img.shields.io/badge/Kali_Linux-E8EDF6?style=flat-square&logo=kalilinux&logoColor=E8EDF6&labelColor=0E1018&color=0E1018" alt="Kali Linux">
+<img src="https://img.shields.io/badge/Windows_Server-E8EDF6?style=flat-square&logo=windows&logoColor=4596F5&labelColor=0E1018&color=0E1018" alt="Windows Server">
+<img src="https://img.shields.io/badge/Active_Directory-E8EDF6?style=flat-square&logo=microsoft&logoColor=4596F5&labelColor=0E1018&color=0E1018" alt="Active Directory">
+</td>
+</tr>
+<tr>
+<td valign="top"><sub><b>LANGUAGE</b></sub></td>
+<td>
+<img src="https://img.shields.io/badge/Python-E8EDF6?style=flat-square&logo=python&logoColor=4596F5&labelColor=0E1018&color=0E1018" alt="Python">
+</td>
+</tr>
+</table>
 
 ---
 
-## `~/activity`
+## 📊 GitHub Activity
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=BlueN0r&show_icons=true&count_private=true&hide_border=true&title_color=4596F5&icon_color=75B4F7&text_color=E8EDF6&bg_color=07090D" alt="stats">
@@ -182,7 +210,7 @@ reproducible PoC, and a PoC into a shipped fix.
 
 ---
 
-## `~/writing`
+## 📝 Writing
 
 Write-ups, research notes and disclosure stories live on **[bluen0r.com](https://bluen0r.com)**.
 
