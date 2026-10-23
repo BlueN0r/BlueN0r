@@ -1,47 +1,50 @@
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║  BlueN0r · Offensive Security Researcher — GitHub Profile      ║ -->
-<!-- ║  NOTE: dynamic widgets below use the handle `BlueN0r`.         ║ -->
-<!-- ║  If your GitHub username differs, find/replace it once.        ║ -->
+<!-- ║  Theme matched to bluen0r.com                                 ║ -->
+<!-- ║  bg #07090D · accent #4596F5 · light #75B4F7 · text #E8EDF6   ║ -->
+<!-- ║  Dynamic widgets use handle `BlueN0r` — confirmed.            ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <!-- ===================== HERO BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:1B2A4A,100:0A66C2&height=220&section=header&text=BlueN0r&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Find%20it.%20Prove%20it.%20Get%20it%20fixed.&descAlignY=60&descSize=20&animation=fadeIn" alt="BlueN0r banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07090D,60:12294D,100:4596F5&height=210&section=header&text=BlueN0r&fontSize=70&fontColor=E8EDF6&fontAlignY=38&desc=Find%20it.%20Prove%20it.%20Get%20it%20fixed.&descAlignY=60&descSize=18&descColor=96AEC5&animation=fadeIn" alt="BlueN0r banner">
+</p>
+
+<!-- ===================== SYSTEM LABEL ===================== -->
+<p align="center">
+  <img src="https://img.shields.io/badge/●_SYSTEM_ONLINE-·_OFFENSIVE_SECURITY_NOTES-75B4F7?style=flat-square&labelColor=07090D&color=0E1018" alt="system online">
 </p>
 
 <!-- ===================== TYPING SUBTITLE ===================== -->
 <p align="center">
   <a href="https://bluen0r.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=2DA44E&center=true&vCenter=true&width=720&lines=Offensive+Security+Researcher+%2F+Penetration+Tester;Web+%C2%B7+Active+Directory+%C2%B7+Mobile+%C2%B7+Reverse+Engineering;Open-Source+Vulnerability+Research+%26+Coordinated+Disclosure" alt="roles">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=4596F5&center=true&vCenter=true&width=720&lines=Offensive+Security+Researcher+%2F+Penetration+Tester;Web+%C2%B7+Active+Directory+%C2%B7+Mobile+%C2%B7+Reverse+Engineering;Open-Source+Vulnerability+Research+%26+Coordinated+Disclosure" alt="roles">
   </a>
 </p>
 
 <!-- ===================== TOP BADGES ===================== -->
 <p align="center">
-  <a href="https://bluen0r.com"><img src="https://img.shields.io/badge/Blog-bluen0r.com-0A66C2?style=for-the-badge&logo=rss&logoColor=white" alt="Blog"></a>
-  <a href="https://github.com/advisories?query=credit%3ABlueN0r"><img src="https://img.shields.io/badge/Security_Advisories-Credited-2DA44E?style=for-the-badge&logo=github&logoColor=white" alt="Advisories"></a>
-  <img src="https://img.shields.io/badge/Based_in-Busan,_Korea-555555?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
-  <img src="https://komarev.com/ghpvc/?username=BlueN0r&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS" alt="Profile views">
+  <a href="https://bluen0r.com"><img src="https://img.shields.io/badge/Blog-bluen0r.com-4596F5?style=for-the-badge&logo=rss&logoColor=E8EDF6&labelColor=07090D" alt="Blog"></a>
+  <a href="https://github.com/advisories?query=credit%3ABlueN0r"><img src="https://img.shields.io/badge/Security_Advisories-Credited-75B4F7?style=for-the-badge&logo=github&logoColor=E8EDF6&labelColor=07090D" alt="Advisories"></a>
+  <img src="https://img.shields.io/badge/Based_in-Busan,_Korea-96AEC5?style=for-the-badge&logo=googlemaps&logoColor=E8EDF6&labelColor=07090D" alt="Location">
+  <img src="https://komarev.com/ghpvc/?username=BlueN0r&style=for-the-badge&color=4596F5&label=PROFILE+VIEWS" alt="Profile views">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CPTS-Certified-9146FF?style=flat-square&logo=hackthebox&logoColor=white" alt="CPTS">
-  <img src="https://img.shields.io/badge/CWES-Certified-9146FF?style=flat-square&logo=hackthebox&logoColor=white" alt="CWES">
-  <img src="https://img.shields.io/badge/CVE-Credited-E00000?style=flat-square&logo=cve&logoColor=white" alt="CVE">
+  <img src="https://img.shields.io/badge/CPTS-Certified-4596F5?style=flat-square&logo=hackthebox&logoColor=E8EDF6&labelColor=07090D" alt="CPTS">
+  <img src="https://img.shields.io/badge/CWES-Certified-4596F5?style=flat-square&logo=hackthebox&logoColor=E8EDF6&labelColor=07090D" alt="CWES">
+  <img src="https://img.shields.io/badge/CVE-Credited-75B4F7?style=flat-square&logo=cve&logoColor=E8EDF6&labelColor=07090D" alt="CVE">
 </p>
 
-<div align="center">
-
-```diff
-+ "I break things to make them safer."
-! From finding the bug → writing a clean PoC → shipping a fix & advisory with maintainers.
+```ansi
+bluen0r@ops:~$ cat ./motto.txt
+"I break things to make them safer."
+→ find the bug · write a clean PoC · ship the fix & advisory with maintainers.
 ```
-
-</div>
 
 ---
 
-## 🧑‍💻 `whoami`
+## `bluen0r@ops:~$ cat ./whoami`
 
 ```yaml
 name:      BlueN0r
@@ -64,7 +67,7 @@ reproducible PoC, and a PoC into a shipped fix.
 
 ---
 
-## 🎓 Certifications
+## `~/certs`
 
 <p align="center">
   <a href="https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist">
@@ -83,7 +86,7 @@ reproducible PoC, and a PoC into a shipped fix.
 
 ---
 
-## 🎯 What I Do
+## `~/capabilities`
 
 <table>
 <tr>
@@ -129,13 +132,13 @@ reproducible PoC, and a PoC into a shipped fix.
 
 ---
 
-## 🛡️ Security Advisories
+## `~/advisories`
 
 <div align="center">
 
 | CVE | Advisory | Package | Severity | Summary |
 |---|---|---|---|---|
-| `CVE-2026-107719` | [GHSA-x937-hj6v-793p](https://github.com/advisories/GHSA-x937-hj6v-793p) | [fast-jwt](https://github.com/nearform/fast-jwt) (npm) ≤ 6.3.3 | ![Moderate](https://img.shields.io/badge/Moderate-4.2-FB8C00?style=flat-square) | JWT expiration bypass via verifier cache (CWE-613) |
+| `CVE-2026-107719` | [GHSA-x937-hj6v-793p](https://github.com/advisories/GHSA-x937-hj6v-793p) | [fast-jwt](https://github.com/nearform/fast-jwt) (npm) ≤ 6.3.3 | ![Moderate](https://img.shields.io/badge/Moderate-4.2-FB8C00?style=flat-square&labelColor=07090D) | JWT expiration bypass via verifier cache (CWE-613) |
 
 </div>
 
@@ -143,7 +146,7 @@ reproducible PoC, and a PoC into a shipped fix.
 
 ---
 
-## 🧰 Arsenal
+## `~/arsenal`
 
 <p align="center">
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite">
@@ -162,29 +165,29 @@ reproducible PoC, and a PoC into a shipped fix.
 
 ---
 
-## 📊 GitHub Activity
+## `~/activity`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BlueN0r&show_icons=true&count_private=true&hide_border=true&title_color=2DA44E&icon_color=0A66C2&text_color=c9d1d9&bg_color=0D1117" alt="stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueN0r&layout=compact&hide_border=true&title_color=2DA44E&text_color=c9d1d9&bg_color=0D1117" alt="top langs">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BlueN0r&show_icons=true&count_private=true&hide_border=true&title_color=4596F5&icon_color=75B4F7&text_color=E8EDF6&bg_color=07090D" alt="stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueN0r&layout=compact&hide_border=true&title_color=4596F5&text_color=E8EDF6&bg_color=07090D" alt="top langs">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=BlueN0r&hide_border=true&background=0D1117&stroke=2DA44E&ring=0A66C2&fire=E00000&currStreakLabel=2DA44E&sideLabels=c9d1d9&dates=8b949e" alt="streak">
+  <img src="https://streak-stats.demolab.com?user=BlueN0r&hide_border=true&background=07090D&stroke=4596F5&ring=75B4F7&fire=4596F5&currStreakLabel=4596F5&sideLabels=E8EDF6&dates=96AEC5" alt="streak">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BlueN0r&theme=darkhub&no-frame=true&column=7&margin-w=8" alt="trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=BlueN0r&theme=onedark&no-frame=true&column=7&margin-w=8" alt="trophies">
 </p>
 
 ---
 
-## 📝 Writing
+## `~/writing`
 
 Write-ups, research notes and disclosure stories live on **[bluen0r.com](https://bluen0r.com)**.
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:0A0E27&height=120&section=footer&text=Want%20to%20talk%20security%3F&fontSize=20&fontColor=ffffff&fontAlignY=70&desc=reach%20out%20via%20bluen0r.com&descAlignY=90&descSize=14" alt="footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4596F5,100:07090D&height=120&section=footer&text=bluen0r%40ops%3A~%24&fontSize=18&fontColor=E8EDF6&fontAlignY=68&desc=Want%20to%20talk%20security%3F%20Reach%20out%20via%20bluen0r.com&descAlignY=92&descColor=96AEC5&descSize=13" alt="footer">
 </p>
