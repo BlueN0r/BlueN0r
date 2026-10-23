@@ -151,43 +151,54 @@ reproducible PoC, and a PoC into a shipped fix.
 
 <table>
 <tr>
-<td valign="top"><sub><b>WEB / PROXY</b></sub></td>
+<td valign="middle" width="210"><sub><b>🌐 WEB / API</b></sub></td>
 <td>
 <img src="https://img.shields.io/badge/Burp_Suite-E8EDF6?style=flat-square&logo=burpsuite&logoColor=FF6633&labelColor=0E1018&color=0E1018" alt="Burp Suite">
+<img src="https://img.shields.io/badge/OWASP_ZAP-E8EDF6?style=flat-square&logo=owasp&logoColor=E8EDF6&labelColor=0E1018&color=0E1018" alt="OWASP ZAP">
+<img src="https://img.shields.io/badge/Postman-E8EDF6?style=flat-square&logo=postman&logoColor=FF6C37&labelColor=0E1018&color=0E1018" alt="Postman">
 </td>
 </tr>
 <tr>
-<td valign="top"><sub><b>REVERSE ENGINEERING</b></sub></td>
+<td valign="middle"><sub><b>🔬 REVERSE ENGINEERING</b></sub></td>
 <td>
-<img src="https://img.shields.io/badge/IDA_Pro-E8EDF6?style=flat-square&logoColor=E8EDF6&labelColor=0E1018&color=0E1018" alt="IDA Pro">
-<img src="https://img.shields.io/badge/Ghidra-E8EDF6?style=flat-square&logoColor=E8EDF6&labelColor=0E1018&color=0E1018" alt="Ghidra">
+<img src="https://img.shields.io/badge/IDA_Pro-E8EDF6?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTkgMnYySDdhMiAyIDAgMCAwLTIgMnYySDN2MmgydjRIM3YyaDJ2MmEyIDIgMCAwIDAgMiAyaDJ2Mmgydi0yaDR2Mmgydi0yaDJhMiAyIDAgMCAwIDItMnYtMmgydi0yaC0ydi00aDJWOGgtMlY2YTIgMiAwIDAgMC0yLTJoLTJWMmgtMnYyaC00VjJ6Ii8%2BPHJlY3QgeD0iOSIgeT0iOSIgd2lkdGg9IjYiIGhlaWdodD0iNiIgZmlsbD0iIzA3MDkwZCIvPjwvc3ZnPg%3D%3D&labelColor=0E1018&color=0E1018" alt="IDA Pro">
+<img src="https://img.shields.io/badge/Ghidra-E8EDF6?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE1LjUgMTRoLS43OWwtLjI4LS4yN2E2LjUgNi41IDAgMSAwLS43LjdsLjI3LjI4di43OWw1IDQuOTlMMjAuNDkgMTlsLTQuOTktNXptLTYgMEE0LjUgNC41IDAgMSAxIDE0IDkuNSA0LjUgNC41IDAgMCAxIDkuNSAxNHoiLz48L3N2Zz4%3D&labelColor=0E1018&color=0E1018" alt="Ghidra">
+<img src="https://img.shields.io/badge/radare2-E8EDF6?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMiA3djEwbDEwIDUgMTAtNVY3TDEyIDJ6bTAgMi4zTDE5IDh2LjFsLTcgMy41TDUgOC4xVjhsNy0zLjd6TTQgOS44bDcgMy41djYuNGwtNy0zLjVWOS44em0xNiAwdjYuNGwtNyAzLjV2LTYuNGw3LTMuNXoiLz48L3N2Zz4%3D&labelColor=0E1018&color=0E1018" alt="radare2">
 </td>
 </tr>
 <tr>
-<td valign="top"><sub><b>MOBILE</b></sub></td>
+<td valign="middle"><sub><b>📱 MOBILE</b></sub></td>
 <td>
-<img src="https://img.shields.io/badge/Frida-E8EDF6?style=flat-square&logoColor=E8EDF6&labelColor=0E1018&color=0E1018" alt="Frida">
+<img src="https://img.shields.io/badge/Frida-E8EDF6?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyOC4xIDM5Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTksN3Y5LjhsMTksMHY3LjRsLTE5LDBWMzlIMFYwaDI4LjFsLTAuMSw3SDl6Ii8+PC9zdmc+Cg%3D%3D&labelColor=0E1018&color=0E1018" alt="Frida">
 <img src="https://img.shields.io/badge/ADB-E8EDF6?style=flat-square&logo=android&logoColor=3DDC84&labelColor=0E1018&color=0E1018" alt="ADB">
+<img src="https://img.shields.io/badge/Android_Studio-E8EDF6?style=flat-square&logo=androidstudio&logoColor=3DDC84&labelColor=0E1018&color=0E1018" alt="Android Studio">
 </td>
 </tr>
 <tr>
-<td valign="top"><sub><b>NETWORK</b></sub></td>
+<td valign="middle"><sub><b>📡 NETWORK</b></sub></td>
 <td>
-<img src="https://img.shields.io/badge/Wireshark-E8EDF6?style=flat-square&logo=wireshark&logoColor=1679A7&labelColor=0E1018&color=0E1018" alt="Wireshark">
+<img src="https://img.shields.io/badge/Wireshark-E8EDF6?style=flat-square&logo=wireshark&logoColor=5BA3D0&labelColor=0E1018&color=0E1018" alt="Wireshark">
+<img src="https://img.shields.io/badge/Nmap-E8EDF6?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJhMTAgMTAgMCAxIDAgMTAgMTBoLTJhOCA4IDAgMSAxLTgtOFYyeiIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0xMiA2YTYgNiAwIDEgMCA2IDZoLTJhNCA0IDAgMSAxLTQtNFY2eiIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEuOCIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg%3D%3D&labelColor=0E1018&color=0E1018" alt="Nmap">
+<img src="https://img.shields.io/badge/mitmproxy-E8EDF6?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTMgOGw0LTR2M2gxMXYySDd2M0wzIDh6bTE4IDhsLTQgNHYtM0g2di0yaDExdi0zbDQgNHoiLz48L3N2Zz4%3D&labelColor=0E1018&color=0E1018" alt="mitmproxy">
 </td>
 </tr>
 <tr>
-<td valign="top"><sub><b>PLATFORMS</b></sub></td>
+<td valign="middle"><sub><b>🏢 PLATFORMS & INFRA</b></sub></td>
 <td>
 <img src="https://img.shields.io/badge/Kali_Linux-E8EDF6?style=flat-square&logo=kalilinux&logoColor=E8EDF6&labelColor=0E1018&color=0E1018" alt="Kali Linux">
-<img src="https://img.shields.io/badge/Windows_Server-E8EDF6?style=flat-square&logo=windows&logoColor=4596F5&labelColor=0E1018&color=0E1018" alt="Windows Server">
-<img src="https://img.shields.io/badge/Active_Directory-E8EDF6?style=flat-square&logo=microsoft&logoColor=4596F5&labelColor=0E1018&color=0E1018" alt="Active Directory">
+<img src="https://img.shields.io/badge/Windows_Server-E8EDF6?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMyAxMlY2Ljc1bDYtMS4zMnY2LjQ4em0xNy05djguNzVsLTEwIC4xNVY1LjIxek0zIDEzbDYgLjA5djYuODFsLTYtMS4xNXptMTcgLjI1VjIybC0xMC0xLjkxVjEzLjF6Ii8+PC9zdmc+&labelColor=0E1018&color=0E1018" alt="Windows Server">
+<img src="https://img.shields.io/badge/Active_Directory-E8EDF6?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNOSAydjZoMnYzSDVjLTEuMTEgMC0yIC44OS0yIDJ2M0gxdjZoNnYtNkg1di0zaDZ2M0g5djZoNnYtNmgtMnYtM2g2djNoLTJ2Nmg2di02aC0ydi0zYzAtMS4xMS0uODktMi0yLTJoLTZWOGgyVjJ6Ii8+PC9zdmc+&labelColor=0E1018&color=0E1018" alt="Active Directory">
+<img src="https://img.shields.io/badge/Metasploit-E8EDF6?style=flat-square&logo=metasploit&logoColor=E8EDF6&labelColor=0E1018&color=0E1018" alt="Metasploit">
+<img src="https://img.shields.io/badge/Docker-E8EDF6?style=flat-square&logo=docker&logoColor=4596F5&labelColor=0E1018&color=0E1018" alt="Docker">
 </td>
 </tr>
 <tr>
-<td valign="top"><sub><b>LANGUAGE</b></sub></td>
+<td valign="middle"><sub><b>⌨️ LANGUAGES</b></sub></td>
 <td>
 <img src="https://img.shields.io/badge/Python-E8EDF6?style=flat-square&logo=python&logoColor=4596F5&labelColor=0E1018&color=0E1018" alt="Python">
+<img src="https://img.shields.io/badge/Bash-E8EDF6?style=flat-square&logo=gnubash&logoColor=E8EDF6&labelColor=0E1018&color=0E1018" alt="Bash">
+<img src="https://img.shields.io/badge/Go-E8EDF6?style=flat-square&logo=go&logoColor=00ADD8&labelColor=0E1018&color=0E1018" alt="Go">
+<img src="https://img.shields.io/badge/PowerShell-E8EDF6?style=flat-square&logo=powershell&logoColor=5391FE&labelColor=0E1018&color=0E1018" alt="PowerShell">
 </td>
 </tr>
 </table>
