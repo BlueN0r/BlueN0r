@@ -27,7 +27,7 @@
   <a href="https://bluen0r.com"><img src="https://img.shields.io/badge/Blog-bluen0r.com-4596F5?style=for-the-badge&logo=rss&logoColor=E8EDF6&labelColor=07090D" alt="Blog"></a>
   <a href="https://github.com/advisories?query=credit%3ABlueN0r"><img src="https://img.shields.io/badge/Security_Advisories-Credited-75B4F7?style=for-the-badge&logo=github&logoColor=E8EDF6&labelColor=07090D" alt="Advisories"></a>
   <img src="https://img.shields.io/badge/Based_in-Busan,_Korea-96AEC5?style=for-the-badge&logo=googlemaps&logoColor=E8EDF6&labelColor=07090D" alt="Location">
-  <img src="https://komarev.com/ghpvc/?username=BlueN0r&style=for-the-badge&color=4596F5&label=PROFILE+VIEWS" alt="Profile views">
+  <img src="https://hits.sh/github.com/BlueN0r.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=4596F5&labelColor=07090D" alt="Profile views">
 </p>
 
 <p align="center">
@@ -208,16 +208,12 @@ reproducible PoC, and a PoC into a shipped fix.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BlueN0r&show_icons=true&count_private=true&hide_border=true&title_color=4596F5&icon_color=75B4F7&text_color=E8EDF6&bg_color=07090D" alt="stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueN0r&layout=compact&hide_border=true&title_color=4596F5&text_color=E8EDF6&bg_color=07090D" alt="top langs">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BlueN0r&show_icons=true&count_private=true&hide_border=true&title_color=4596F5&icon_color=75B4F7&text_color=E8EDF6&bg_color=07090D&cache_seconds=86400" alt="stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueN0r&layout=compact&hide_border=true&title_color=4596F5&text_color=E8EDF6&bg_color=07090D&cache_seconds=86400" alt="top langs">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=BlueN0r&hide_border=true&background=07090D&stroke=4596F5&ring=75B4F7&fire=4596F5&currStreakLabel=4596F5&sideLabels=E8EDF6&dates=96AEC5" alt="streak">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BlueN0r&theme=onedark&no-frame=true&column=7&margin-w=8" alt="trophies">
+  <img src="https://streak-stats.demolab.com?user=BlueN0r&hide_border=true&background=07090D&stroke=4596F5&ring=75B4F7&fire=4596F5&currStreakNum=E8EDF6&sideNums=E8EDF6&currStreakLabel=4596F5&sideLabels=E8EDF6&dates=96AEC5" alt="streak">
 </p>
 
 ---
