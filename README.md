@@ -25,15 +25,15 @@
 <!-- ===================== TOP BADGES ===================== -->
 <p align="center">
   <a href="https://bluen0r.com"><img src="https://img.shields.io/badge/Blog-bluen0r.com-4596F5?style=for-the-badge&logo=rss&logoColor=E8EDF6&labelColor=07090D" alt="Blog"></a>
-  <a href="https://github.com/advisories?query=credit%3ABlueN0r"><img src="https://img.shields.io/badge/Security_Advisories-Credited-75B4F7?style=for-the-badge&logo=github&logoColor=E8EDF6&labelColor=07090D" alt="Advisories"></a>
-  <img src="https://img.shields.io/badge/Based_in-Busan,_Korea-96AEC5?style=for-the-badge&logo=googlemaps&logoColor=E8EDF6&labelColor=07090D" alt="Location">
-  <img src="https://hits.sh/github.com/BlueN0r.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=4596F5&labelColor=07090D" alt="Profile views">
+  <a href="https://github.com/advisories?query=credit%3ABlueN0r"><img src="https://img.shields.io/badge/Security_Advisories-Credited-4596F5?style=for-the-badge&logo=github&logoColor=E8EDF6&labelColor=07090D" alt="Advisories"></a>
+  <img src="https://img.shields.io/badge/Based_in-Busan,_Korea-75B4F7?style=for-the-badge&logo=googlemaps&logoColor=E8EDF6&labelColor=07090D" alt="Location">
+  <img src="https://hits.sh/github.com/BlueN0r.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=75B4F7&labelColor=07090D" alt="Profile views">
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/CPTS-Certified-4596F5?style=flat-square&logo=hackthebox&logoColor=E8EDF6&labelColor=07090D" alt="CPTS">
   <img src="https://img.shields.io/badge/CWES-Certified-4596F5?style=flat-square&logo=hackthebox&logoColor=E8EDF6&labelColor=07090D" alt="CWES">
-  <img src="https://img.shields.io/badge/CVE-Credited-75B4F7?style=flat-square&logo=cve&logoColor=E8EDF6&labelColor=07090D" alt="CVE">
+  <img src="https://img.shields.io/badge/CVE-Credited-4596F5?style=flat-square&logo=cve&logoColor=E8EDF6&labelColor=07090D" alt="CVE">
 </p>
 
 ```ansi
@@ -153,9 +153,9 @@ reproducible PoC, and a PoC into a shipped fix.
 <tr>
 <td valign="middle" width="210"><sub><b>🌐 WEB / API</b></sub></td>
 <td>
-<img src="https://img.shields.io/badge/Burp_Suite-E8EDF6?style=flat-square&logo=burpsuite&logoColor=FF6633&labelColor=0E1018&color=0E1018" alt="Burp Suite">
+<img src="https://img.shields.io/badge/Burp_Suite-E8EDF6?style=flat-square&logo=burpsuite&logoColor=E8EDF6&labelColor=0E1018&color=0E1018" alt="Burp Suite">
 <img src="https://img.shields.io/badge/OWASP_ZAP-E8EDF6?style=flat-square&logo=owasp&logoColor=E8EDF6&labelColor=0E1018&color=0E1018" alt="OWASP ZAP">
-<img src="https://img.shields.io/badge/Postman-E8EDF6?style=flat-square&logo=postman&logoColor=FF6C37&labelColor=0E1018&color=0E1018" alt="Postman">
+<img src="https://img.shields.io/badge/Postman-E8EDF6?style=flat-square&logo=postman&logoColor=E8EDF6&labelColor=0E1018&color=0E1018" alt="Postman">
 </td>
 </tr>
 <tr>
@@ -170,14 +170,14 @@ reproducible PoC, and a PoC into a shipped fix.
 <td valign="middle"><sub><b>📱 MOBILE</b></sub></td>
 <td>
 <img src="https://img.shields.io/badge/Frida-E8EDF6?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyOC4xIDM5Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTksN3Y5LjhsMTksMHY3LjRsLTE5LDBWMzlIMFYwaDI4LjFsLTAuMSw3SDl6Ii8+PC9zdmc+Cg%3D%3D&labelColor=0E1018&color=0E1018" alt="Frida">
-<img src="https://img.shields.io/badge/ADB-E8EDF6?style=flat-square&logo=android&logoColor=3DDC84&labelColor=0E1018&color=0E1018" alt="ADB">
-<img src="https://img.shields.io/badge/Android_Studio-E8EDF6?style=flat-square&logo=androidstudio&logoColor=3DDC84&labelColor=0E1018&color=0E1018" alt="Android Studio">
+<img src="https://img.shields.io/badge/ADB-E8EDF6?style=flat-square&logo=android&logoColor=E8EDF6&labelColor=0E1018&color=0E1018" alt="ADB">
+<img src="https://img.shields.io/badge/Android_Studio-E8EDF6?style=flat-square&logo=androidstudio&logoColor=E8EDF6&labelColor=0E1018&color=0E1018" alt="Android Studio">
 </td>
 </tr>
 <tr>
 <td valign="middle"><sub><b>📡 NETWORK</b></sub></td>
 <td>
-<img src="https://img.shields.io/badge/Wireshark-E8EDF6?style=flat-square&logo=wireshark&logoColor=5BA3D0&labelColor=0E1018&color=0E1018" alt="Wireshark">
+<img src="https://img.shields.io/badge/Wireshark-E8EDF6?style=flat-square&logo=wireshark&logoColor=E8EDF6&labelColor=0E1018&color=0E1018" alt="Wireshark">
 <img src="https://img.shields.io/badge/Nmap-E8EDF6?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJhMTAgMTAgMCAxIDAgMTAgMTBoLTJhOCA4IDAgMSAxLTgtOFYyeiIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0xMiA2YTYgNiAwIDEgMCA2IDZoLTJhNCA0IDAgMSAxLTQtNFY2eiIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEuOCIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg%3D%3D&labelColor=0E1018&color=0E1018" alt="Nmap">
 <img src="https://img.shields.io/badge/mitmproxy-E8EDF6?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTMgOGw0LTR2M2gxMXYySDd2M0wzIDh6bTE4IDhsLTQgNHYtM0g2di0yaDExdi0zbDQgNHoiLz48L3N2Zz4%3D&labelColor=0E1018&color=0E1018" alt="mitmproxy">
 </td>
@@ -189,16 +189,16 @@ reproducible PoC, and a PoC into a shipped fix.
 <img src="https://img.shields.io/badge/Windows_Server-E8EDF6?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMyAxMlY2Ljc1bDYtMS4zMnY2LjQ4em0xNy05djguNzVsLTEwIC4xNVY1LjIxek0zIDEzbDYgLjA5djYuODFsLTYtMS4xNXptMTcgLjI1VjIybC0xMC0xLjkxVjEzLjF6Ii8+PC9zdmc+&labelColor=0E1018&color=0E1018" alt="Windows Server">
 <img src="https://img.shields.io/badge/Active_Directory-E8EDF6?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNOSAydjZoMnYzSDVjLTEuMTEgMC0yIC44OS0yIDJ2M0gxdjZoNnYtNkg1di0zaDZ2M0g5djZoNnYtNmgtMnYtM2g2djNoLTJ2Nmg2di02aC0ydi0zYzAtMS4xMS0uODktMi0yLTJoLTZWOGgyVjJ6Ii8+PC9zdmc+&labelColor=0E1018&color=0E1018" alt="Active Directory">
 <img src="https://img.shields.io/badge/Metasploit-E8EDF6?style=flat-square&logo=metasploit&logoColor=E8EDF6&labelColor=0E1018&color=0E1018" alt="Metasploit">
-<img src="https://img.shields.io/badge/Docker-E8EDF6?style=flat-square&logo=docker&logoColor=4596F5&labelColor=0E1018&color=0E1018" alt="Docker">
+<img src="https://img.shields.io/badge/Docker-E8EDF6?style=flat-square&logo=docker&logoColor=E8EDF6&labelColor=0E1018&color=0E1018" alt="Docker">
 </td>
 </tr>
 <tr>
 <td valign="middle"><sub><b>⌨️ LANGUAGES</b></sub></td>
 <td>
-<img src="https://img.shields.io/badge/Python-E8EDF6?style=flat-square&logo=python&logoColor=4596F5&labelColor=0E1018&color=0E1018" alt="Python">
+<img src="https://img.shields.io/badge/Python-E8EDF6?style=flat-square&logo=python&logoColor=E8EDF6&labelColor=0E1018&color=0E1018" alt="Python">
 <img src="https://img.shields.io/badge/Bash-E8EDF6?style=flat-square&logo=gnubash&logoColor=E8EDF6&labelColor=0E1018&color=0E1018" alt="Bash">
-<img src="https://img.shields.io/badge/Go-E8EDF6?style=flat-square&logo=go&logoColor=00ADD8&labelColor=0E1018&color=0E1018" alt="Go">
-<img src="https://img.shields.io/badge/PowerShell-E8EDF6?style=flat-square&logo=powershell&logoColor=5391FE&labelColor=0E1018&color=0E1018" alt="PowerShell">
+<img src="https://img.shields.io/badge/Go-E8EDF6?style=flat-square&logo=go&logoColor=E8EDF6&labelColor=0E1018&color=0E1018" alt="Go">
+<img src="https://img.shields.io/badge/PowerShell-E8EDF6?style=flat-square&logo=powershell&logoColor=E8EDF6&labelColor=0E1018&color=0E1018" alt="PowerShell">
 </td>
 </tr>
 </table>
@@ -207,13 +207,23 @@ reproducible PoC, and a PoC into a shipped fix.
 
 ## 📊 GitHub Activity
 
+<!-- Transparent cards + light-mode variants so they blend into GitHub's page in both themes -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BlueN0r&show_icons=true&count_private=true&hide_border=true&title_color=4596F5&icon_color=75B4F7&text_color=E8EDF6&bg_color=07090D&cache_seconds=86400" alt="stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueN0r&layout=compact&hide_border=true&title_color=4596F5&text_color=E8EDF6&bg_color=07090D&cache_seconds=86400" alt="top langs">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=BlueN0r&show_icons=true&count_private=true&hide_border=true&title_color=4596F5&icon_color=4596F5&text_color=1F2328&bg_color=00000000&cache_seconds=86400">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=BlueN0r&show_icons=true&count_private=true&hide_border=true&title_color=4596F5&icon_color=75B4F7&text_color=E8EDF6&bg_color=00000000&cache_seconds=86400" alt="stats">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueN0r&layout=compact&hide_border=true&title_color=4596F5&text_color=1F2328&bg_color=00000000&cache_seconds=86400">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueN0r&layout=compact&hide_border=true&title_color=4596F5&text_color=E8EDF6&bg_color=00000000&cache_seconds=86400" alt="top langs">
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=BlueN0r&hide_border=true&background=07090D&stroke=4596F5&ring=75B4F7&fire=4596F5&currStreakNum=E8EDF6&sideNums=E8EDF6&currStreakLabel=4596F5&sideLabels=E8EDF6&dates=96AEC5" alt="streak">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=BlueN0r&hide_border=true&background=00000000&stroke=4596F5&ring=4596F5&fire=4596F5&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=4596F5&sideLabels=1F2328&dates=59636E">
+    <img src="https://streak-stats.demolab.com?user=BlueN0r&hide_border=true&background=00000000&stroke=4596F5&ring=75B4F7&fire=4596F5&currStreakNum=E8EDF6&sideNums=E8EDF6&currStreakLabel=4596F5&sideLabels=E8EDF6&dates=96AEC5" alt="streak">
+  </picture>
 </p>
 
 ---
